@@ -3,7 +3,7 @@ const HomePage = () => {
         <div className='flex flex-col h-full'>
             <div className='text-white font-bold mb-4'>
                 <h1 className='text-3xl '>Xin chào,</h1>
-                <h1 className='text-3xl'>Nguyễn Huỳnh Như</h1>
+                <h1 className='text-3xl'>Thượng Quang Phúc</h1>
             </div>
 
             <div className=' border-white border shadow-md bg-white rounded-lg p-4 mt-4'>
